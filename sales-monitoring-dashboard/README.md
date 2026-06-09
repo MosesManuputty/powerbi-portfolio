@@ -90,7 +90,7 @@ This project is designed as a **daily sales monitoring dashboard** for Regional 
 ---
 
 ## 🖼️ Dashboard Preview  
-images/dashboard.png  
+![Sales Dashboard](images/sales-monitoring-dashboard.png) 
 
 ---
 
