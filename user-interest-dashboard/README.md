@@ -90,7 +90,7 @@ This project analyzes customer behavior and digital platform preferences in Regi
 ---
 
 ## 🖼️ Dashboard Preview
-images/dashboard.png
+![Sales Dashboard](images/user-interest-dashboard.png)
 
 ---
 
