@@ -77,7 +77,7 @@ This project aims to analyze sales performance in Regional X to support business
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](images/dashboard.png)
+![Sales Dashboard](images/sales-performance-dashboard.png)
 
 ---
 
