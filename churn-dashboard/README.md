@@ -89,7 +89,7 @@ This project focuses on analyzing customer churn behavior in 2025. The dashboard
 ---
 
 ## 🖼️ Dashboard Preview  
-images/dashboard.png  
+![Sales Dashboard](images/churn-dashboard.png) 
 
 ---
 
